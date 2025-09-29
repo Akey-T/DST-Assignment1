@@ -40,8 +40,8 @@ How to Run the Project
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/AkeyT/DST-Assignment1.git
+cd DST-Assignment1
 
 2. Pull Large Files with Git LFS
 
